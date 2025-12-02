@@ -1,0 +1,3 @@
+streamlit==1.29.0
+SpeechRecognition==3.10.0
+PyAudio==0.2.11  # Optional, only if you plan to use live microphone input
